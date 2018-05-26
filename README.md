@@ -1,15 +1,16 @@
 ## Welcome to our GKV Project GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HafidzAS/Project-GrafKomV-Danbo-Park/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We're going through our final project for this class and hoping that we can get the best score possible matching our hardwork and dedication through this
+Contributive Members of our team are:
+1. Nixon Okabashi H. (155150200111157)
+2. Fadhel Muhammad (155150201111348)
+3. Hafidz Aulia Setijadi (155150201111218)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Welcome to the Danbo Park!!!
+The popular yet calm and cute character Mr. Danbo is coming to brighten up your day.
+The cute character is now located on some familiar environment which is the Danbo Park.
+Just like the name
 
 # Header 1
 ## Header 2
