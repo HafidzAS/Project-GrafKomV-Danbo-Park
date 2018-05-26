@@ -7,7 +7,8 @@ We're going through our final project for this class and hoping that we can get 
 ### Welcome to the Danbo Park!!!
 The popular yet calm and cute character Mr. Danbo is coming to brighten up your day.
 The cute character is now located on some familiar environment which is the Danbo Park.
-Just like the name, it is Danbo's place to play and chill, covered in greens, and fulfilled with a lot of interesting stuffs such as:
+Just like the name, it is Danbo's place to play and chill, covered in greens, and fulfilled with a lot of interesting stuffs such as: Trees, bushes, and etc.
+Can you feel the elightment that the Danbo felt?
 
 
 # Here is the download link of our project
