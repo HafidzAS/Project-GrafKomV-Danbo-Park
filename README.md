@@ -13,14 +13,13 @@ Just like the name, it is Danbo's place to play and chill, covered in greens, an
 # Here is the download link of our project
 For the Source Code: [Softly Click Here](https://github.com/HafidzAS/Project-GrafKomV-Danbo-Park)
 
-For the Executable Project: [Softly Click Here](url)
+For the Executable Project: [Softly Click Here](https://github.com/HafidzAS/Project-GrafKomV-Danbo-Park/tree/Exe)
 
 PLEASE ENJOY!!!
 
 
 ## And of course here is the preview
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syFZfO_wfMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_a_H2FFqYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## And For The Remarkable People Behind This
