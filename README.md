@@ -17,7 +17,7 @@ For the Executable Project: [Softly Click Here](url)
 PLEASE ENJOY!!!
 
 
-## And of course here is the preiview
+## And of course here is the preview
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syFZfO_wfMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
